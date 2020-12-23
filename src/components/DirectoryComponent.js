@@ -28,7 +28,7 @@ class Directory extends Component {
                         },
                         {
                             id: 3,
-                            name: 'Redux Woods Campground',
+                            name: 'Redux Woods Camp',
                             image: 'assets/images/redux-woods.jpg',
                             elevation: 42,
                             description: "You'll never want to leave this hidden gem, deep within the lush Redux Woods."
